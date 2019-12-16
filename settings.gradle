@@ -1,0 +1,4 @@
+rootProject.name = 'solr-xm-search'
+include 'solr-xm-plugin'
+include 'solr-xm-utils'
+
